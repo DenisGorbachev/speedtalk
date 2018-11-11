@@ -6,4 +6,4 @@ Example:
 * You are programming.
 * Your friend sends you an instant message.
 * Problem: you don't want to interrupt your flow, but you also don't want to offend your friend.
-* Solution: answer with a `flow` snippet that fully describes the situation.
+* Solution: answer with a "[concentration](en/concentration.txt)" snippet that fully describes the situation.
