@@ -1,5 +1,7 @@
 # Speedtalk Agreement 
 
+![Speedtalk](/img/speed.jpg)
+
 In order to speed up our communication, I propose the following conventions:
 
 + [Specify all parameters in a single request](#specify-all-parameters-in-a-single-request)
