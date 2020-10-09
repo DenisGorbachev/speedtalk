@@ -11,6 +11,11 @@ In order to speed up our communication, I propose the following conventions:
 + [Use "$url - ?" to request feedback](#use-url----to-request-feedback)
 + [Use "++" to mark the task as completed](#use--to-mark-the-task-as-completed)
 
+See also:
+
+* [Rationale](#rationale)
+* [Good faith](#good-faith)
+
 ## Conventions
 
 ### Specify all parameters in a single request
