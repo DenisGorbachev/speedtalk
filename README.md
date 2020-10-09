@@ -17,7 +17,7 @@ In order to speed up our communication, I propose the following conventions:
 
 People communicate slowly because of fear:
 
-* Fear of being rejected after saying explicitly what you want.
+* Fear of being rejected after saying explicitly what they want.
 * Fear of being misunderstood after sending a short message.
 
 Speedtalk allows people to drop the fears by mutually accepting this Agreement.
