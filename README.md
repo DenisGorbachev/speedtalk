@@ -2,6 +2,17 @@
 
 In order to speed up our communication, I propose the following conventions:
 
++ [Specify all parameters in a single request](#specify-all-parameters-in-a-single-request)
++ [Drop courtesy modifiers](#drop-courtesy-modifiers)
++ [Drop probability modifiers](#drop-probability-modifiers)
++ [Use direct approvals & rejections](#use-direct-approvals---rejections)
++ [Use abbreviations](#use-abbreviations)
++ [Use "+" to accept a proposal](#use--to-accept-a-proposal)
++ [Use "$url - ?" to request feedback](#use-url----to-request-feedback)
++ [Use "++" to mark the task as completed](#use--to-mark-the-task-as-completed)
+
+## Conventions
+
 ### Specify all parameters in a single request
   * Fast:
     * *Meeting today at 16:00 at Golden Fish restaurant: $url?*
@@ -42,7 +53,7 @@ Examples: "I think", "Most probably", ...
     * *I think we can meet today*
     * *+*
 
-The probability modifiers should be left in place if they are required by context (*I will buy an umbrella because it'll probably rain tomorrow*)
+The probability modifiers should be left in place if they are required by context (*"I will buy an umbrella because it'll probably rain tomorrow"*).
 
 ### Use direct approvals & rejections
   * Fast:
