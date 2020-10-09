@@ -11,10 +11,24 @@ In order to speed up our communication, I propose the following conventions:
 + [Use "$url - ?" to request feedback](#use-url----to-request-feedback)
 + [Use "++" to mark the task as completed](#use--to-mark-the-task-as-completed)
 
-See also:
+## Rationale
 
-* [Rationale](#rationale)
-* [Good faith](#good-faith)
+People communicate slowly because of fear:
+
+* Fear of being rejected after saying explicitly what you want.
+* Fear of being misunderstood after sending a short message.
+
+Speedtalk allows people to drop the fears by mutually accepting this Agreement.
+
+## Good faith
+
+I'm proposing this agreement in good faith. I hereby assure you that:
+
+* I want to talk with you.
+* I want to work with you.
+* I want to walk with you.
+
+This agreement only covers business & is not (necessarily) applicable to friendship or romance.
 
 ## Conventions
 
@@ -89,27 +103,8 @@ The probability modifiers should be left in place if they are required by contex
 
 ### Use "++" to mark the task as completed
   * Fast:
-    * *Design review to email?*
+    * *Review new design*
     * *++*
   * Slow:
-    * *Could you please send me an email with the design review that you've been working on?*
-    * *Sure - I've just sent it, please check your inbox*
-
-## Rationale
-
-People communicate slowly because of fear:
-
-* Fear of being rejected after saying explicitly what you want.
-* Fear of being misunderstood after sending a short message.
-
-Speedtalk shortens messages by assuming that speakers don't have those fears, because they've explicitly accepted the Speedtalk Agreement.
-
-## Good faith
-
-I'm proposing this agreement in good faith. I hereby assure you that:
-
-* I want to talk with you.
-* I want to work with you.
-* I want to walk with you.
-
-This agreement only covers business communication & is not applicable to friendship, romance or leisure.
+    * *Could you please send me provide your opinion on the design that I've been working on?*
+    * *Sure - I've just shared my thoughts via email, please check your inbox*
