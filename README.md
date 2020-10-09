@@ -2,7 +2,7 @@
 
 In order to speed up our communication, I propose the following conventions:
 
-* Specify all parameters in a single request:
+### Specify all parameters in a single request
   * Fast:
     * *Meeting today at 16:00 at Golden Fish restaurant: $url?*
     * *OK*
@@ -19,43 +19,65 @@ In order to speed up our communication, I propose the following conventions:
     * *Could you please send the location?*
     * *$url*
     * *OK, see you there*
-* Use "+" or "OK" to indicate acknowledgement / agreement / confirmation:
+    
+### Drop courtesy modifiers
+
+Examples: "Could you please", "Would you like to", ...
+
   * Fast:
-    * *I want to propose a discount to our prospects*
-    * *+*
-  * Slow:
-    * *I want to propose a discount to our prospects*
-    * *Feel free to do it*
-* Use "+" to indicate completion of the task:
-  * Fast:
-    * *Design review to email?*
-    * *+*
-  * Slow:
-    * *Could you please send me an email with the design review that you've been working on?*
-    * *Sure - I've just sent it, please check your inbox*
-* Drop courtesy modifiers ("Could you please", "Would you like to", ...):
-  * Fast:
-    * *Feedback on $url?*
+    * *$url - ?*
     * *+*
   * Slow:
     * *Could you please provide feedback on my project: $url?*
-    * *Of course*
-* Drop probability modifiers ("I think", "Most probably", ...), unless required by context:
+    * *Of course, please check your email*
+
+### Drop probability modifiers
+
+Examples: "I think", "Most probably", ...
+
   * Fast:
     * *We can meet today*
     * *+*
   * Slow:
     * *I think we can meet today*
     * *+*
-* Use direct forms instead of indirect ones:
+
+The probability modifiers should be left in place if they are required by context (*I will buy an umbrella because it'll probably rain tomorrow*)
+
+### Use direct approvals & rejections
   * Fast:
-    * *I want to propose a discount to our prospects*
+    * *I want to give a discount to our prospects*
     * *-, will hurt revenue* 
   * Slow:
-    * *I would like to propose a discount to our prospects*
+    * *I want to give a discount to our prospects*
     * *I'm afraid I have to reject your idea, because it would have a negative impact on our revenue numbers*
-* Use the following short messages to convey extra meaning:
+
+### Use abbreviations
   * "[Focused](./en/focused.md)" - I'm currently focused on a task, will reply after finishing it. If it's urgent, please call immediately.
+
+### Use "+" to accept a proposal
+  * Fast:
+    * *I want to give a discount to our prospects*
+    * *+*
+  * Slow:
+    * *I want to give a discount to our prospects*
+    * *Feel free to do it*
+
+### Use "$url - ?" to request feedback
+  * Fast:
+    * *$url - ?*
+    * *+*
+  * Slow:
+    * *Feedback on $url?*
+    * *Done, please check your email*
+
+### Use "++" to mark the task as completed
+  * Fast:
+    * *Design review to email?*
+    * *++*
+  * Slow:
+    * *Could you please send me an email with the design review that you've been working on?*
+    * *Sure - I've just sent it, please check your inbox*
 
 ## Rationale
 
