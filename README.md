@@ -30,7 +30,7 @@ I'm proposing this agreement in good faith. I hereby assure you that:
 * I want to work with you.
 * I want to walk with you.
 
-This agreement only covers business & is not (necessarily) applicable to friendship or romance.
+I believe that speeding up our communication will improve our relationship.
 
 ## Conventions
 
