@@ -9,9 +9,9 @@ In order to speed up our communication, I propose the following conventions:
 + [Drop probability modifiers](#drop-probability-modifiers)
 + [Use direct approvals & rejections](#use-direct-approvals---rejections)
 + [Use abbreviations](#use-abbreviations)
-+ [Use "+" to accept a proposal](#use--to-accept-a-proposal)
++ [Use "~" to indicate that you've started working on a task](#use--to-indicate-that-youve-started-working-on-a-task)
++ [Use "+" to mark the task as completed](#use--to-mark-the-task-as-completed)
 + [Use "$url - ?" to request feedback](#use-url----to-request-feedback)
-+ [Use "++" to mark the task as completed](#use--to-mark-the-task-as-completed)
 
 ## Rationale
 
