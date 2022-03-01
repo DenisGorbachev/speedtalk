@@ -10,7 +10,7 @@ In order to speed up our communication, I propose the following conventions:
 + [Use direct approvals & rejections](#use-direct-approvals---rejections)
 + [Use abbreviations](#use-abbreviations)
 + [Use "~" to indicate that you've started working on a task](#use--to-indicate-that-youve-started-working-on-a-task)
-+ [Use "+" to mark the task as completed](#use--to-mark-the-task-as-completed)
++ [Use "+" to mark the task as completed](#use--to-mark-the-task-as-completed--accept-a-proposal--confirm-new-data)
 + [Use "$url - ?" to request feedback](#use-url----to-request-feedback)
 
 ## Rationale
