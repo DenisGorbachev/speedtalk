@@ -95,7 +95,7 @@ The probability modifiers should be left in place if they are required by contex
     * *Could you please send me provide your opinion on the design that I've been working on?*
     * *Yes, let me take a look as soon as I've got time*
 
-### Use "+" to mark the task as completed
+### Use "+" to mark the task as completed / accept a proposal / confirm new data
   * Fast:
     * *Process comments on the design*
     * *+*
