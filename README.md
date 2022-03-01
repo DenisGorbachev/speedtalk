@@ -87,13 +87,21 @@ The probability modifiers should be left in place if they are required by contex
 ### Use abbreviations
   * "[Focused](./en/focused.md)" - I'm currently focused on a task, will reply after finishing it. If it's urgent, please call immediately.
 
-### Use "+" to accept a proposal
+### Use "~" to indicate that you've started working on a task
   * Fast:
-    * *I want to give a discount to our prospects*
+    * *Review new design*
+    * *~*
+  * Slow:
+    * *Could you please send me provide your opinion on the design that I've been working on?*
+    * *Yes, let me take a look as soon as I've got time*
+
+### Use "+" to mark the task as completed
+  * Fast:
+    * *Process comments on the design*
     * *+*
   * Slow:
-    * *I want to give a discount to our prospects*
-    * *Feel free to do it*
+    * *Could you please update the design according to the comments I've added recently?*
+    * *Sure - I've just updated the design, please check the file*
 
 ### Use "$url - ?" to request feedback
   * Fast:
@@ -103,10 +111,3 @@ The probability modifiers should be left in place if they are required by contex
     * *Feedback on $url?*
     * *Done, please check your email*
 
-### Use "++" to mark the task as completed
-  * Fast:
-    * *Review new design*
-    * *++*
-  * Slow:
-    * *Could you please send me provide your opinion on the design that I've been working on?*
-    * *Sure - I've just shared my thoughts via email, please check your inbox*
