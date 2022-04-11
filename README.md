@@ -6,12 +6,12 @@ In order to speed up our communication, I propose the following conventions:
 
 + [Use "+" to mark the task as completed](#use--to-mark-the-task-as-completed--accept-a-proposal--confirm-new-data)
 + [Use "~" to indicate that you've started working on a task](#use--to-indicate-that-youve-started-working-on-a-task)
++ [Use "$url - ?" to request feedback](#use-url----to-request-feedback)
 + [Specify all parameters in a single request](#specify-all-parameters-in-a-single-request)
 + [Split multiple requests into separate messages](#split-multiple-requests-into-separate-messages)
 + [Drop probability modifiers](#drop-probability-modifiers)
 + [Use direct approvals & rejections](#use-direct-approvals--rejections)
 + [Use abbreviations](#use-abbreviations)
-+ [Use "$url - ?" to request feedback](#use-url----to-request-feedback)
 
 ## Rationale
 
@@ -51,6 +51,14 @@ I believe that speeding up our communication will improve our relationship.
 * Slow:
   * *Could you please send me provide your opinion on the design that I've been working on?*
   * *Yes, let me take a look as soon as I've got time*
+
+### Use "$url - ?" to request feedback
+* Fast:
+    * *$url - ?*
+    * *+*
+* Slow:
+    * *Feedback on $url?*
+    * *Done, please check your email*
 
 ### Specify all parameters in a single request
 
@@ -105,11 +113,3 @@ The probability modifiers should be left in place if they are required by contex
 
 ### Use abbreviations
   * "[Focused](./en/focused.md)" - I'm currently focused on a task, will reply after finishing it. If it's urgent, please call immediately.
-
-### Use "$url - ?" to request feedback
-  * Fast:
-    * *$url - ?*
-    * *+*
-  * Slow:
-    * *Feedback on $url?*
-    * *Done, please check your email*
